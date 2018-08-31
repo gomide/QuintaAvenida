@@ -89,7 +89,7 @@ const Login = props => {
                     <TouchableHighlight onPress= {() => { Actions.CadastroUsuario(); }}>
                         <View style={{alignItems: 'center'}}>
                             <Text  style={styles.TextoCadastro}>
-                                Ainda não tem cadastro? Cadastre-se
+                                Ainda não tem cadastro? Cadastre-se aqui
                             </Text>
                         </View>
                     </TouchableHighlight>
